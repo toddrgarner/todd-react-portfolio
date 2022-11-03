@@ -1,5 +1,3 @@
-
-
 import React, { useEffect, useState } from "react";
 import Nav from "./components/Nav";
 import Header from "./components/Header";
