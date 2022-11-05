@@ -1,0 +1,38 @@
+import { FaFlag } from "react-icons/fa";
+
+const Experience = () => {
+  return (
+    <div className="container experience">
+      <h1>Experience</h1>
+      <div class="container">
+        <div class="row">
+          <div class="card-well">
+            <div class="row nomargin">
+              <div class="col workexperience dif">
+                <div class="col text-center work">
+                  <div class="info">
+                    <div>
+                      <h2>2U</h2>
+                    </div>
+                    <div className="inline">
+                      <b>Apr 2022 - Present</b>
+                      <li>
+                        <b>Remote</b>
+                      </li>
+                    </div>
+                  </div>
+                  <p>
+                    A1111111111111111111111, I
+                    help stud11111111111111111111111111g.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Experience;
