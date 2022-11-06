@@ -1,11 +1,11 @@
-// import pfp from "../../assets/ToddGarner";
-// import resume from "";
+import pix from "../../assets/Todd-Garner-Pix.webp";
+import resume from "../..assets/Todd-Garner-Resume.pdf";
 
 function Header() {
   return (
     <div className="container header">
       <div className="profilePic">
-        <img alt="picture of Todd Garner" src={pfp}></img>
+        <img alt="picture of Todd Garner" src={pix}></img>
       </div>
       <div className="intro">
         <h1>
