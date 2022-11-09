@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Description](#description)
+- [User Story](#description)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Social Network API Screenshot GIF](#social-network-api-screenshot-gif)
-- [Social Network API Walkthrough](#social-network-api-walkthrough)
-- [Social Network API Github Repository URL](#social-network-api-github-repository-url)
+- [Todd React Portfolio Screenshot GIF](#todd-react-portfolio-screenshot-gif)
+- [Todd React Portfolio Live URL](#todd-react-portfolio-live-url)
+- [Todd React Portfolio Github Repository URL](#todd-react-portfolio-repository-url)
 
 # User Story
 
@@ -41,24 +41,9 @@ THEN I see a link to a downloadable resume and a list of the developer’s profi
 WHEN I view the footer.<br>
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Todd React Portfolio Screenshot: GIF
+## Todd React Portfolio Screenshot GIF:
 
 ![todd-react-portfolio](https://user-images.githubusercontent.com/110719370/200752713-1555e294-aaf0-47f5-a25e-0cb2b4add361.gif)
-
 
 ## Todd React Portfolio Live URL:
 
