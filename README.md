@@ -47,6 +47,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Todd React Portfolio Live URL:
 
+https://toddrgarner.github.io/todd-react-portfolio
+
 ## Todd React Portfolio Github Repository URL:
 
 https://github.com/toddrgarner/todd-react-portfolio
