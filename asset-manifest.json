@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todd-react-portfolio/static/css/main.dfbdabe8.css",
+    "main.js": "/todd-react-portfolio/static/js/main.d8f55f32.js",
+    "static/js/787.a2cb61a6.chunk.js": "/todd-react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Todd-Garner-Pix.webp": "/todd-react-portfolio/static/media/Todd-Garner-Pix.30ed0eccee252aa5df60.webp",
+    "static/media/Todd-Garner-Resume.pdf": "/todd-react-portfolio/static/media/Todd-Garner-Resume.0a23794ef1b0842836b4.pdf",
+    "static/media/Event-Fan-Follow.webp": "/todd-react-portfolio/static/media/Event-Fan-Follow.50e54ae426a1cf9e3d1a.webp",
+    "static/media/Todd-Garner-Portfolio.webp": "/todd-react-portfolio/static/media/Todd-Garner-Portfolio.fd78d43267813ae3b0ee.webp",
+    "static/media/Resume-Creator.webp": "/todd-react-portfolio/static/media/Resume-Creator.32e747ea589136371fcf.webp",
+    "static/media/To-Do-List-App.webp": "/todd-react-portfolio/static/media/To-Do-List-App.a537105fbc0194e71d69.webp",
+    "static/media/Note-Taker.webp": "/todd-react-portfolio/static/media/Note-Taker.bd170d74b594d832b48a.webp",
+    "index.html": "/todd-react-portfolio/index.html",
+    "main.dfbdabe8.css.map": "/todd-react-portfolio/static/css/main.dfbdabe8.css.map",
+    "main.d8f55f32.js.map": "/todd-react-portfolio/static/js/main.d8f55f32.js.map",
+    "787.a2cb61a6.chunk.js.map": "/todd-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfbdabe8.css",
+    "static/js/main.d8f55f32.js"
+  ]
+}
