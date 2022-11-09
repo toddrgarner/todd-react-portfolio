@@ -1,5 +1,5 @@
 import pix from "../../assets/Todd-Garner-Pix.webp";
-import resume from "../..assets/Todd-Garner-Resume.pdf";
+import resume from "../../assets/Todd-Garner-Resume.pdf";
 
 function Header() {
   return (

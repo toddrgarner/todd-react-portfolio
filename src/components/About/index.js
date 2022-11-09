@@ -5,8 +5,11 @@ function About() {
           <h1>About Me</h1>
           <div className="aboutMe">
             <p>
-              .111111111111111111lllllll
-              11111111111111111111
+            My name is Todd Garner, I'm a singer-songwriter and co-founder of
+            indie label Stone Cold Records. I'm a Full Stack Web Developer, recently 
+            graduated from UCLA Extension. My passion for music has led me to the life of coding.
+            The love of problem solving and spending many hours in the studio editing music, making the decision 
+            to becoming a web developer was something that was meant to be. 
             </p>
           </div>
         </div>
