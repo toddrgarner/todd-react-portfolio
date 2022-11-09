@@ -5,9 +5,6 @@ import ToDoList from "../../assets/To-Do-List-App.webp";
 import ToddPort from "../../assets/Todd-Garner-Portfolio.webp";
 
 
-
-
-
 function Portfolio() {
     return (
         <div className="portfolio">
