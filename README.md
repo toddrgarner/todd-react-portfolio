@@ -17,7 +17,8 @@
 
 ## Todd React Portfolio Screenshot: GIF
 
-![todd-react-portfolio](https://user-images.githubusercontent.com/110719370/200752324-58b5eb57-588a-47ce-b4a4-17c4ed9b3698.gif)
+![todd-react-portfolio](https://user-images.githubusercontent.com/110719370/200752713-1555e294-aaf0-47f5-a25e-0cb2b4add361.gif)
+
 
 ## Todd React Portfolio Live URL:
 
