@@ -29,7 +29,7 @@ function Footer() {
               sx={{ width: 40, height: 40, color: "black" }}
             />
           </a>
-          <a href="mailto:@gmail.com">
+          <a href="mailto:toddrgarner@gmail.com">
             <AlternateEmailIcon
               alt="gmail"
               sx={{ width: 40, height: 40, color: "black" }}
